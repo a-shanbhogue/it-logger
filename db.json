@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Panchami Rao",
+      "date": "2020-04-17T15:53:11.726Z"
+    },
+    {
+      "id": 2,
+      "message": "dummy log",
+      "attention": true,
+      "tech": "Ashish Shanbhogue",
+      "date": "2020-04-17T15:53:18.919Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Ashish",
+      "lastName": "Shanbhogue",
+      "id": 3
+    },
+    {
+      "firstName": "Panchami",
+      "lastName": "Rao",
+      "id": 4
+    },
+    {
+      "firstName": "Pradeep ",
+      "lastName": "Pati",
+      "id": 5
+    }
+  ]
+}
